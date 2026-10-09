@@ -12,7 +12,6 @@ for Spinel — each one written to exercise a different corner of the
 bindings (physics, text rendering, mouse/wheel input, throughput, sockets):
 
 - [`tower_defense`](https://github.com/jockofcode/tower_defense) — "Bastion Line", grid-based tower defense
-- [`pinball`](https://github.com/jockofcode/pinball) — "Stardrift Pinball", flippers, bumpers, a real plunger
 - [`click_chess`](https://github.com/jockofcode/click_chess) — full legal chess, mouse-driven
 - [`terminal_of_the_old_gods`](https://github.com/jockofcode/terminal_of_the_old_gods) — glyph-only roguelike
 - [`vector_blaster_2000`](https://github.com/jockofcode/vector_blaster_2000) — Asteroids-style outline shooter
